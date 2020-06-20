@@ -1,0 +1,20 @@
+PODS:
+  - OpenSSL-for-iOS (1.0.2.d.1)
+  - secp256k1.c (0.1.2)
+
+DEPENDENCIES:
+  - OpenSSL-for-iOS (~> 1.0.2.d.1)
+  - secp256k1.c
+
+SPEC REPOS:
+  trunk:
+    - OpenSSL-for-iOS
+    - secp256k1.c
+
+SPEC CHECKSUMS:
+  OpenSSL-for-iOS: d7a30add88a1969b052135adbe48452af231ed32
+  secp256k1.c: db47b726585d80f027423682eb369729e61b3b20
+
+PODFILE CHECKSUM: 3c6ade98b3c259626352672c4131c3da016d48fe
+
+COCOAPODS: 1.9.3
