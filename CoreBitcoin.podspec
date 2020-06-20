@@ -12,5 +12,5 @@ spec.source       = {:git => "https://github.com/SmartPear/CoreBitcoin.git", :ta
 spec.frameworks = 'Foundation'
 spec.source_files  = 'CoreBitcoin/CoreBitcoin/*.{h,m}','CoreBitcoin/CoreBitcoin/category/*.{h,m}''
 spec.swift_version = '5.0'
-spec.dependency "NVActivityIndicatorView"
+spec.dependency "OpenSSL-for-iOS" , "secp256k1.c"
 end
