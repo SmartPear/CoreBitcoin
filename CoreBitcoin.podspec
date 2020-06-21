@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = 'CoreBitcoin'
-spec.version      = '1.0.7'
+spec.version      = '1.0.8'
 spec.summary      = 'CoreBitcoin 封装'
 spec.license      = 'MIT'
 spec.homepage     = 'https://github.com/SmartPear/CoreBitcoin'
