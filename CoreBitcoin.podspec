@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
 
-spec.name         = 'CoreBitcoin'
+spec.name         = 'CoreBitcoin-framework'
 spec.version      = '1.0.8'
 spec.summary      = 'CoreBitcoin 封装'
 spec.license      = 'MIT'
